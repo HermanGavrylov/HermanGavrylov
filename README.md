@@ -1,6 +1,6 @@
 ## Hi, I'm Herman 💨
 
-🛠️ Python Developer <br>
+🛠️ Software Engineer <br>
 🧠 Web Developer
 
 
